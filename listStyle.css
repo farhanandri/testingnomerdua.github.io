@@ -160,11 +160,11 @@ header .navigation li a:hover {
     line-height: 200px;
     text-align: center;
     font-weight: 300;
-    font-size: 2em;
 }
 
 .info h2 span {
     color: #ED2B33;
+    font-size: 1.5em;
 }
 
 .madeByText {
