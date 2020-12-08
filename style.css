@@ -271,10 +271,12 @@ menu {
     padding: 8px 40px;
     border-top: 1px solid rgba(0,0,0,0.1);
     text-align: center;
+    background-color: #151515;
+    margin-top: 10px;
 }
 
 .madeByText p{
-    color: #333;
+    color: #fff;
 }
 
 .madeByText span{
@@ -284,7 +286,6 @@ menu {
 }
 
 @media (max-width: 1000px){
-
     header,
     header.sticky {
     padding: 10px 20px;
