@@ -37,6 +37,14 @@ p {
     color: #fff;
 }
 
+.login form table {
+    border-collapse: collapse;
+}
+
+.login form table td {
+    padding: 5px;
+}
+
 .btn {
     font-size: 1em;
     color: #fff;

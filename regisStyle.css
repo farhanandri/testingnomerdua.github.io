@@ -93,8 +93,23 @@ section {
     padding: 100px;
 }
 
+
 .registration label {
     color: white;
+}
+
+.registration{
+    text-align: center;
+}
+
+.registration form table {
+    margin-right: auto;
+    margin-left: auto;
+    border-collapse: collapse;
+}
+
+.registration form table td {
+    padding: 5px;
 }
 
 .madeByText {
